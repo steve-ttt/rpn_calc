@@ -14,8 +14,9 @@ This C program implements a simple Reverse Polish Notation (RPN) calculator for 
     * Sine (s)
     * Cosine (c)
     * Tangent (t)
-* **Power function:**
-    * Power (p)
+* **Other function:**
+    * Power (n, p)
+    * Log10 (x)
 * **Input and output:**
     * Takes RPN expressions as input.
     * Displays the calculated result.

@@ -34,7 +34,9 @@ This C program implements a simple Reverse Polish Notation (RPN) calculator for 
 
 ## Example
 Enter an RPN expression: 2 3 + 5 *
+
                                 25
+                                
 nb. The equivelent in algebraic notation would be; (2 + 3 ) * 5 = 25                            
 
 ## How it Works

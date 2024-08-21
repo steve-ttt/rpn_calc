@@ -39,7 +39,7 @@ Enter an RPN expression: 2 3 + 5 *
                                 25
                                 
 nb. The equivelent in algebraic notation would be; (2 + 3 ) * 5 = 25                            
-
+* also supports more than two operands ie: 1 2 3 4 5 + => 15 the same as [1 + 2 + 3 + 4 + 5 = 15]
 ## How it Works
 
 The program uses a stack to store operands and intermediate results. It reads input characters one by one and performs the following actions:
